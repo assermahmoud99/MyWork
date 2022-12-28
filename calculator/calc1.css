@@ -1,0 +1,24 @@
+button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 17px 35px;
+    text-align: center;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+  }
+#bte,#btdel
+{
+    width:320px
+}
+#out
+{
+    width:430px;
+    height:100px;
+    background-color: #023603;
+    color:white;
+    font-size: 50px;
+
+}
