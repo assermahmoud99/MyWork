@@ -1,0 +1,6 @@
+this task was made according to maharatech backend course
+
+
+
+notes
+to run this code u have to download xamp and put the project inside it and put the database inside the localhost and then open it using xamp
