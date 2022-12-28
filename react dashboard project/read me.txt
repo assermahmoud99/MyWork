@@ -1,0 +1,5 @@
+this project was made according to https://www.youtube.com/watch?v=jx5hdo50a2M
+
+
+note
+to run this project you have to open the terminal and run the code: npm start
